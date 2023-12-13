@@ -15,4 +15,5 @@ To run the program, ensure that the Excel files containing the city coordinates 
 
 # Eight queen folder
 The Eight Queens puzzle is a classic problem where the goal is to place eight queens on an 8x8 chessboard such that no two queens threaten each other. This program uses a Genetic Algorithm to find a solution to this problem.
+
 ![image](https://github.com/MiladGIS/Heuristic-algorithms/assets/96174234/660cde04-b318-482e-9094-cd6cd7595359)
